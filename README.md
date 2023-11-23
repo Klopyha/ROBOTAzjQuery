@@ -2,6 +2,8 @@
 Frontend 2023 Заочний ["Технології програмування користувацьких інтерфейсів (Front-end)"] 
 
 Simon game 
+To beat the Simon game, players need to remember the color pattern and repeat it by pressing the colored buttons on the game unit in the correct order.
+
 
 https://resilient-panda-ebf12b.netlify.app/ (deploy)
 1. HTML
