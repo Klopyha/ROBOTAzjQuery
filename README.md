@@ -11,11 +11,3 @@ https://resilient-panda-ebf12b.netlify.app/ (deploy)
 3. JavaScript
 4. jQuery
 5. Красиві очі
-
-
-
-
-
-
-
-є ще така штука на vanilla js з API https://reliable-starship-92e096.netlify.app/ 
