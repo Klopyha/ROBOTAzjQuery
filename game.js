@@ -1,7 +1,3 @@
-// alert("hello");
-
-// $("h1").css("color", "red");
-
 var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 var userClickedPattern = [];
@@ -23,12 +19,6 @@ function nextSequence() {
   var randomChosenColour = buttonColours[randomNumber];
   gamePattern.push(randomChosenColour);
 
-  // $(document).ready(() => {
-  //   setInterval(() => {
-  //     $("#" + randomChosenColour).fadeIn();
-  //     $("#" + randomChosenColour).fadeOut();
-  //   }, 25);
-  // });
   $("#" + randomChosenColour)
     .fadeIn(100)
     .fadeOut(100)
